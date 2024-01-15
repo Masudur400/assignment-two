@@ -367,10 +367,21 @@
     padding: 50px 0px;
     background-image: url(Images/Group\ 39.png);
     background-size: cover;
+    border-radius:20px;
 }
 
 .eight-container {
-    margin-left:450px;
+    margin-left:500px;
+    width: 450px;
+    /* height:150px; */
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    padding:30px;
+}
+.nine-container{
+    margin-left:100px;
     width: 450px;
     /* height:150px; */
     border-radius: 16px;
@@ -454,7 +465,8 @@
         margin: 0px;
         padding: 0px;
     }
-    .eight-container{
+    .eight-container,
+    .nine-container{
         margin:20px;
     }
 
