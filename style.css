@@ -2,90 +2,75 @@
 
 * {
     font-family: mulish;
-}
-
+} 
 .nav {
     max-width: 1100px;
     display: flex;
     margin: 0px 100px;
     align-items: center;
     justify-content: space-between;
-}
-
+} 
 .nav-head {
     display: flex;
     width: 50%;
-}
-
+} 
 .nav-img {
     width: 10%;
     height: 50%;
     margin: auto 0px;
-}
-
+} 
 .nav-title {
     color: #131318;
     font-weight: 800;
     font-size: 2.2rem;
     margin: 0px 20px;
-}
-
+} 
 .nav-title span {
     color: #FF5400;
-}
-
+} 
 .nav-list {
     width: 50%;
     padding: 20px;
     font-size: 1.1rem;
     font-weight: 400;
-}
-
+} 
 .nav-list ul {
     display: flex;
     justify-content: space-between;
     list-style: none;
-}
-
+} 
 .nav-list span {
     color: #FF5400;
-}
-
+} 
 .nav-list a {
     text-decoration: none;
-}
-
+} 
 .second {
     display: grid;
     max-width: 1100px;
     margin: 50px 100px;
     text-align: center;
     align-items: center;
-}
-
+} 
 .second-container {
     background-image: url(Images/Group\ 13\ \(1\)\ \(1\).png);
     background-repeat: no-repeat;
     object-fit: cover;
     border-radius: 40px;
-    padding: 40px 0px;
-
-}
-
+    padding: 40px 0px; 
+} 
 .second-title {
     font-size: 4rem;
     font-weight: 800;
     color: #FFF;
     margin: 30px;
-}
-
+} 
 .second-content {
     color: #FFF;
     font-size: 1rem;
     font-weight: 400;
     margin: 50px 200px 100px 200px;
-}
-
+} 
 .input button {
     width: 150px;
     height: 30px;
@@ -94,8 +79,7 @@
     color: rgba(19, 19, 24, 0.50);
     font-size: 1rem;
     font-weight: 400;
-}
-
+} 
 .input {
     display: flex;
     gap: 40px;
@@ -103,8 +87,7 @@
     padding: 20px;
     margin: 0px 120px;
     border-radius: 8px;
-}
-
+} 
 .primary {
     background-color: #FF5400;
     width: 150px;
@@ -114,71 +97,58 @@
     border: none;
     font-size: 1rem;
     font-weight: 400;
-}
-
+} 
 .third {
     max-width: 1100px;
     margin: 50px 100px;
     display: flex;
     justify-content: space-between;
-}
-
+} 
 .third-container {
     text-align: justify;
     width: 48%;
-}
-
+} 
 .third-title {
     color: #131318;
     font-size: 2.5rem;
     font-weight: 800;
     margin-top: 0px;
-}
-
+} 
 .content {
     color: rgba(19, 19, 24, 0.70);
     font-size: 1rem;
     font-weight: 400;
-}
-
+} 
 .btn {
     margin-top: 30px;
-}
-
+} 
 .third-img {
     width: 48%;
     padding: 10px 0px;
-    text-align: right;
-
-}
-
+    text-align: right; 
+} 
 .third-img img {
     width: 90%;
     object-fit: cover;
-}
-
+} 
 .forth {
     max-width: 1100px;
     margin: 50px auto;
-}
-
+} 
 .forth-container {
     margin: 0px 200px;
     text-align: center;
-}
-
+} 
 .forth-title {
     color: #131318;
     font-size: 2.5rem;
     font-weight: 800;
     margin: 10px;
-}
-
+} 
 .forth-image-one {
     display: flex;
     justify-content: space-evenly;
-}
-
+} 
 .forth-first {
     width: 48%;
     height: 288px;
@@ -186,8 +156,7 @@
     object-fit: cover;
     background-repeat: no-repeat;
     border-radius: 15px;
-}
-
+} 
 .forth-second {
     width: 48%;
     height: 288px;
@@ -195,8 +164,7 @@
     object-fit: cover;
     background-repeat: no-repeat;
     border-radius: 15px;
-}
-
+} 
 .image-name {
     text-align: center;
     /* margin-top:25%; */
@@ -204,30 +172,26 @@
     color: #FFF;
     font-size: 1.8rem;
     font-weight: 800;
-}
-
+} 
 .forth-image-two {
     display: flex;
     justify-content: space-evenly;
     margin-top: 10px;
-}
-
+} 
 .forth-third {
     width: 28%;
     height: 288px;
     background-image: url(Images/Rectangle\ 6.png);
     background-size: cover;
     border-radius: 15px;
-}
-
+} 
 .forth-forth {
     width: 38%;
     height: 288px;
     background-image: url(Images/Rectangle\ 7.png);
     background-size: cover;
     border-radius: 15px;
-}
-
+} 
 .forth-fifth {
     width: 28%;
     height: 288px;
@@ -235,50 +199,42 @@
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 15px;
-}
-
+} 
 .forth-image-three {
     display: flex;
     justify-content: space-evenly;
     margin-top: 10px;
-}
-
+} 
 .forth-sixth {
     width: 38%;
     height: 288px;
     background-image: url(Images/Rectangle\ 10.png);
     background-size: cover;
     border-radius: 15px;
-}
-
+} 
 .forth-seventh {
     width: 58%;
     height: 288px;
     background-image: url(Images/Rectangle\ 11.png);
     background-size: cover;
     border-radius: 15px;
-}
-
+} 
 .fifth {
     max-width: 1100px;
     margin: 50px auto;
     text-align: center;
-}
-
+} 
 .fifth-container {
     width: 50%;
     margin: 0px auto;
-    text-align: justify;
-
-}
-
+    text-align: justify; 
+} 
 .fifth-title {
     color: #131318;
     font-size: 2.5rem;
     font-weight: 800;
     margin: 10px;
-}
-
+} 
 .sixth {
     max-width: 1100px;
     margin: 40px auto;
@@ -287,8 +243,7 @@
     flex-wrap: wrap;
     justify-content: center;
 
-}
-
+} 
 .sixth-card-one {
     width: 495px;
     /* height:100px; */
@@ -297,8 +252,7 @@
     border-radius: 16px;
     border: 1px solid rgba(251, 181, 99, 0.20);
     background: rgba(251, 181, 99, 0.05);
-}
-
+} 
 .sixth-card-two {
     width: 495px;
     /* height:100px; */
@@ -307,8 +261,7 @@
     border-radius: 16px;
     border: 1px solid rgba(41, 206, 246, 0.20);
     background: rgba(41, 206, 246, 0.05);
-}
-
+} 
 .sixth-card-three {
     width: 495px;
     padding: 5px;
@@ -317,50 +270,42 @@
     border-radius: 16px;
     border: 1px solid rgba(233, 68, 68, 0.20);
     background: rgba(233, 68, 68, 0.05);
-}
-
+} 
 .sixth-card-title {
     color: #131318;
     font-size: 1.5rem;
     font-weight: 800;
-}
-
+} 
 .hostel {
     font-size: 40px;
     margin-left: 10px;
     color: red;
-}
-
+} 
 .map {
     font-size: 40px;
     margin-left: 10px;
     color: rgb(161, 161, 13);
-}
-
+} 
 .price {
     font-size: 40px;
     margin-left: 10px;
     color: rgb(104, 104, 93);
-}
-
+} 
 .seven {
     max-width: 1100px;
     margin: 10px auto;
-}
-
+} 
 .seven-container {
     width: 500px;
     text-align: center;
     margin: 0px auto;
-}
-
+} 
 .seven-title {
     color: #131318;
     font-size: 2.5rem;
     font-weight: 800;
     margin: 10px;
-}
-
+} 
 .eight {
     max-width: 1100px;
     margin: 50px auto;
@@ -368,8 +313,7 @@
     background-image: url(Images/Group\ 39.png);
     background-size: cover;
     border-radius: 20px;
-}
-
+} 
 .eight-container {
     margin-left: 500px;
     width: 450px;
@@ -379,8 +323,7 @@
     background: rgba(255, 255, 255, 0.80);
     backdrop-filter: blur(2.5px);
     padding: 30px;
-}
-
+} 
 .nine-container {
     margin-left: 100px;
     width: 450px;
@@ -390,76 +333,62 @@
     background: rgba(255, 255, 255, 0.80);
     backdrop-filter: blur(2.5px);
     padding: 30px;
-}
-
+} 
 .icons {
     display: flex;
-}
-
+} 
 .icons p {
     margin-right: 20px;
-}
-
+} 
 .icons>p>span {
     color: #FF5400;
-}
-
+} 
 .eignt-title {
     color: #131318;
     font-size: 1.5rem;
     font-weight: 800;
-}
-
+} 
 .eight-price {
     color: #FF5400;
     font-size: 1.4rem;
     font-weight: 800;
-}
-
+} 
 .see-all-packages {
     max-width: 1100px;
     margin: 10px auto;
     text-align: center;
-}
-
+} 
 .nine {
     max-width: 1100px;
     margin: 50px auto;
     display: flex;
     gap: 50px;
-}
-
+} 
 .nine-title {
     color: #131318;
     font-size: 2.5rem;
     font-weight: 800;
     margin: 10px;
-}
-
+} 
 .nine-list {
     color: #131318;
     font-size: 1ren;
     font-weight: 700;
-}
-
+} 
 .nine-list li {
     margin-bottom: 10px;
-}
-
+} 
 .nine-btn {
     margin-top: 20px;
-}
-
+} 
 video {
     width: 500px;
-}
-
+} 
 .nine-video {
     position: relative;
     text-align: center;
     color: white;
-}
-
+} 
 .nine-video-title {
     color: #FFF;
     font-size: 1.5rem;
@@ -467,15 +396,13 @@ video {
     position: absolute;
     top: 30%;
     left: 10%;
-}
-
+} 
 .ten {
     max-width: 1100px;
     margin: 20px auto;
     display: flex;
     justify-content: space-between;
-}
-
+} 
 .ten-title {
     color: #131318;
     font-size: 1.5rem;
@@ -502,8 +429,7 @@ video {
     border-radius: 5px;
     border: none;
     background-color: #1313180D;
-}
-
+} 
 .ten-btn {
     width: 400px;
     margin-top: 20px;
@@ -569,8 +495,7 @@ video {
 }
 .footer-icons{
     font-size:40px; 
-    text-align:center;
-   
+    text-align:center; 
 }
 .footer-icons i{
     margin-right:20px;
@@ -582,16 +507,7 @@ video {
 .footer-copy{
     text-align:center;
     margin-top:50px;
-}
-
-
-
-
-
-
-
-
-
+} 
 
 
 
@@ -614,7 +530,8 @@ video {
     .forth-forth,
     .forth-fifth,
     .forth-sixth,
-    .forth-seventh {
+    .forth-seventh,
+    .footer hr {
         width: 500px;
         margin-bottom: 10px;
     }
@@ -631,7 +548,8 @@ video {
     .third,
     .forth-container,
     .fifth,
-    .footer-content {
+    .footer-content
+     {
         margin: 0px;
         padding: 0px;
     }
