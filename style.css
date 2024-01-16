@@ -91,16 +91,14 @@
 .primary {
     background-color: #FF5400;
     width: 150px;
-    color: #FFF;
+    color: #FFF !important;
     height: 30px;
     border-radius: 5px;
     border: none;
     font-size: 1rem;
     font-weight: 400;
 } 
-#btn{
-    color:white;
-}
+ 
 .third {
     max-width: 1100px;
     margin: 50px 100px;
